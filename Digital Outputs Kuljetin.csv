@@ -1,0 +1,13 @@
+//CoDeSys Mapping Export V1.2
+//Mapped variable,//Parameter name @ counter in device,//Unit,//Description,//IEC address,//Device name
+//Important: change only first, third or fourth column in Excel or add variable name before first
+,Onboard Output,,CECC's onboard digital outputs,%QB0,Digital Outputs
+Releet,Byte0,,,%QB0,Digital Outputs
+DO_K1,Bit0,,K0413,%QX0.0,Digital Outputs
+DO_K2,Bit1,,K0415,%QX0.1,Digital Outputs
+DO_K3,Bit2,,K0417,%QX0.2,Digital Outputs
+,Bit3,,K0419,%QX0.3,Digital Outputs
+,Bit4,,K0421,%QX0.4,Digital Outputs
+DO_MV1,Bit5,,K0423,%QX0.5,Digital Outputs
+DO_MV2,Bit6,,K0425,%QX0.6,Digital Outputs
+DO_MV3,Bit7,,K0427,%QX0.7,Digital Outputs
